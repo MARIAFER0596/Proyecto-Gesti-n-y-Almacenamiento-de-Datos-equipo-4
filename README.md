@@ -19,7 +19,7 @@ Los sistemas de salud enfrentan salud enfrentan un problema muy notorio en cuant
 
 ##### Configurar la base de datos
 - Acceder a phpMyAdmin en http://localhost/phpmyadmin.
-- Crear una nueva base de datos gyad_db.
+- Crear una nueva base de datos.
 - Importar los scripts SQL del proyecto (ubicados en la carpeta /database).
 
 ##### Clonar el repositorio
